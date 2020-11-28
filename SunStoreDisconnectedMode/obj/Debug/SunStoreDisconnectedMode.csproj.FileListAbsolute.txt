@@ -1,0 +1,19 @@
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.exe.config
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.csprojResolveAssemblyReference.cache
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.SunStoreDisconnectedModefrm.resources
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.Properties.Resources.resources
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.csproj.GenerateResource.Cache
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.exe
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.pdb
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.exe
+C:\Users\Mirette\Documents\Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.pdb
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.exe.config
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.exe
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\bin\Debug\SunStoreDisconnectedMode.pdb
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.csprojAssemblyReference.cache
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.SunStoreDisconnectedModefrm.resources
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.Properties.Resources.resources
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.csproj.GenerateResource.cache
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.csproj.CoreCompileInputs.cache
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.exe
+D:\miret\Documents\My Applications\C#\Yat_Course\SunStoreDisconnectedMode\SunStoreDisconnectedMode\obj\Debug\SunStoreDisconnectedMode.pdb
